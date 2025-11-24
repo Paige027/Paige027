@@ -42,6 +42,6 @@ Python ETL pipeline that reads CSV data, cleans and transforms it, and can uploa
 
 ## 📬 Contact  
 📧 Email: paige.jh27@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/pragnajh](https://www.linkedin.com/in/pragnajh/)
+🔗 **LinkedIn:** [linkedin.com/in/pragnajh](https://www.linkedin.com/in/pragnajh/) <br>
 🐙 **GitHub:** [github.com/Paige027](https://github.com/Paige027)
 
