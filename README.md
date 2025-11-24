@@ -23,18 +23,20 @@ Melbourne, Australia
 
 ---
 
-## 📚 Featured Projects  
-### 🔹 [Sales Insights Dashboard (Power BI)](url_here)  
-Interactive dashboard with KPIs, trends & customer insights  
+## 📚 Featured Projects
 
-### 🔹 [Customer Churn Prediction (Python)](url_here)  
-ML model with feature engineering & classification modeling  
+### 🔹 [Sales Insights Dashboard (Power BI)](https://github.com/Paige027/powerbi-sales-insights-dashboard)  
+Interactive Power BI dashboard built on a synthetic retail sales dataset. Includes KPIs, monthly revenue trends, and product/region insights.
 
-### 🔹 [SQL Case Study – Hospitality](url_here)  
-Complex joins, window functions & business insights  
+### 🔹 [Customer Churn Prediction (Python ML)](https://github.com/Paige027/customer-churn-prediction-ml)  
+End-to-end churn prediction project using Python, scikit-learn, and a synthetic telco dataset. Includes EDA, model training, evaluation and confusion matrix.
 
-### 🔹 [ETL Pipeline using Python + AWS](url_here)  
-Data ingestion → cleaning → upload → automation  
+### 🔹 [SQL Hospitality Case Study](https://github.com/Paige027/sql-hospitality-case-study)  
+SQL analysis of a hospitality bookings dataset with queries for revenue, occupancy, and customer segments.
+
+### 🔹 [ETL Pipeline using Python + AWS](https://github.com/Paige027/etl-pipeline-python-aws)  
+Python ETL pipeline that reads CSV data, cleans and transforms it, and can upload cleaned output to AWS S3.
+ 
 
 ---
 
